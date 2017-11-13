@@ -7,5 +7,5 @@ Display the current price (in USD) of Bitcoin in Slack via webtask.io
 2. Copy `index.js` into the webtask editor
 
 ## Usage
-In Slack, use the `/wt btc` command
+In Slack, use the `/wt btc` command  
 ![](https://i.imgur.com/YiJM6eM.png)
